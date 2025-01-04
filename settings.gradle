@@ -4,4 +4,6 @@ pluginManagement {
 		gradlePluginPortal()
 	}
 }
+
 rootProject.name = 'health'
+
